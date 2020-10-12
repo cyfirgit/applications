@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 */.ipynb_checkpoints/*
 */results/*
+=======
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+Session 5/results/*
+*/results/*
+>>>>>>> c7954dc8537991732737decfaf4c77ffe28908a8
